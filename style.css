@@ -1,0 +1,29 @@
+h1, h2, body {
+  font-family: Lato;
+}
+
+textarea {
+  width: 400px;
+  min-height: 90px;
+}
+
+.flex {
+  display: flex;
+}
+
+.button {
+  height: auto;
+}
+
+p, table {
+  font-size: 12px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+table td {
+  padding: 8px;
+}
